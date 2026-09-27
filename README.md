@@ -110,7 +110,7 @@ A web-based platform project developed as part of my software development journe
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/dur-e-sameen-997b97388?utm)
 - 🐙 GitHub: [@duresameen18](https://github.com/duresameen18)
 
 ---
